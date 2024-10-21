@@ -20,3 +20,4 @@ This is a command-line interface (CLI) project for playing Anti-Chess, a variant
 - Option to display the board and quit the game.
 - Validates moves according to Anti-Chess rules.
 - Declares a winner when one player sacrifices all their pieces.# Anti-Chess
+# Anti-Chess
